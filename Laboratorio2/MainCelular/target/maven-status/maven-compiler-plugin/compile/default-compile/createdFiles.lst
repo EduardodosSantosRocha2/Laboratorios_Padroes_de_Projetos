@@ -1,0 +1,10 @@
+com\mycompany\maincelular\fabricanteCelular.class
+com\mycompany\maincelular\IphoneS.class
+com\mycompany\maincelular\MainCelular.class
+com\mycompany\maincelular\Galaxy20.class
+com\mycompany\maincelular\Celular.class
+com\mycompany\maincelular\Apple.class
+com\mycompany\maincelular\Samsung.class
+com\mycompany\maincelular\Galaxy8.class
+com\mycompany\maincelular\IphoneX.class
+com\mycompany\maincelular\fabricanteCelularSingleton.class

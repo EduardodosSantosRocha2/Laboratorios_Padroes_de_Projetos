@@ -1,0 +1,12 @@
+com\mycompany\maincarros\IVhecleMakerSingleton.class
+com\mycompany\maincarros\Hilux.class
+com\mycompany\maincarros\IVehicle.class
+com\mycompany\maincarros\MainCarros.class
+com\mycompany\maincarros\Toyota.class
+com\mycompany\maincarros\City.class
+com\mycompany\maincarros\Corolla.class
+com\mycompany\maincarros\Etios.class
+com\mycompany\maincarros\Civic.class
+com\mycompany\maincarros\Fit.class
+com\mycompany\maincarros\Honda.class
+com\mycompany\maincarros\IVehicleMaker.class
