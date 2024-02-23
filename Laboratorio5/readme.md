@@ -1,0 +1,3 @@
+No zoológico, aplicamos o padrão Proxy para gerenciar o acesso a informações detalhadas sobre animais. O ProxyControleAcessoAnimal atua como intermediário, adiando a criação do objeto real (AnimalReal) até que as informações sejam solicitadas. Isso proporciona eficiência ao evitar a criação antecipada de objetos.
+
+Ao criar proxies para animais como Arara Azul e Macaco Prego, observamos como o controle de acesso garante que a criação do objeto real ocorra apenas quando necessário. Isso melhora o desempenho, especialmente em situações em que a criação do objeto pode ser demorada. O exemplo destaca a utilidade do padrão Proxy para otimizar o acesso a informações específicas, garantindo uma abordagem sob demanda.
