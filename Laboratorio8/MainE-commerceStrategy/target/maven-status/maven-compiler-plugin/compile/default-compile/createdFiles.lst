@@ -1,0 +1,10 @@
+com\mycompany\maine\commercestrategy\FreteNormal.class
+com\mycompany\maine\commercestrategy\Item.class
+com\mycompany\maine\commercestrategy\Cartao.class
+com\mycompany\maine\commercestrategy\Pix.class
+com\mycompany\maine\commercestrategy\MainECommerceStrategy.class
+com\mycompany\maine\commercestrategy\FreteStrategy.class
+com\mycompany\maine\commercestrategy\Boleto.class
+com\mycompany\maine\commercestrategy\FreteSedex.class
+com\mycompany\maine\commercestrategy\CarrinhoDeCompra.class
+com\mycompany\maine\commercestrategy\PagamentoStrategy.class
